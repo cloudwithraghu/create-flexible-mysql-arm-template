@@ -79,7 +79,7 @@
             "value": "dbadmin"
         },
         "administratorLoginPassword": {
-            "value": null
+            "value": "123456789aA#"
         },
         "version": {
             "value": "5.7"
